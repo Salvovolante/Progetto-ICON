@@ -1,0 +1,6 @@
+pandas
+sklearn
+matplotlib
+owlready2
+kneed
+seaborn
